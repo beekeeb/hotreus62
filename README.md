@@ -26,8 +26,8 @@ Qty | Item
 ## Case
 
 A stacked acrylic case design is available in `case` folder.
-- For MX, a switch plate with thickness 1.5mm is recommended.
-- For choc, a switch plate with thickness 1.2mm is recommended.
+For the switch plate, when acrylic plates are used, 2mm (choc) or 3mm (MX) is recommended.
+When metal or carbon fiber plates are used, 1.2mm (choc) or 1.5mm (MX) is recommended.
 
 ## Firmware
 
