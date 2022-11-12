@@ -8,9 +8,9 @@ More photos can be found at the [beekeeb showcase](https://showcase.beekeeb.com/
 Pre-soldered keyboard PCBs / DIY kits are available at the [beekeeb shop](https://shop.beekeeb.com/?s=hotreus62&post_type=product).
 
 ## Features
-- 62 keys - enough keys for having a number row.
-- Supports having both Low Profile Kailh Choc / MX hotswap sockets on the same board.
-- The overall keyboard height is reduced, with the breakout board placing on the top.
+- 62 keys: enough keys for having a number row.
+- Dual Hotswap Sockets: Support both Kailh Choc (low profile) / MX hotswap sockets on the same board.
+- Lower profile: The overall keyboard height is reduced, with the breakout board placing on the top.
 
 ## Bill of Materials (BOM)
 
